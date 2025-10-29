@@ -105,5 +105,6 @@ To **build an intelligent predictive system** that:
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/<your-username>/predictive-delivery-optimizer.git
+git clone https://github.com/sanyajain33/predictive-delivery-optimize/predictive-delivery-optimizer.git
 cd predictive-delivery-optimizer
+
